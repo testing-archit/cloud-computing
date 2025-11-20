@@ -1,0 +1,17 @@
+flask
+flask_sqlalchemy
+flask_jwt_extended
+flask_migrate
+apscheduler
+requests
+docker
+marshmallow
+psutil
+python-dotenv
+psycopg2-binary
+pytest
+pytest-flask
+pytest-cov
+flake8
+black
+isort
